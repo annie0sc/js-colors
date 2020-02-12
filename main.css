@@ -1,5 +1,9 @@
+h4{
+  color: rgb(236, 15, 52);
+}
 footer {
   padding-top: 1em;
   padding-bottom: 1em;
-  background-color: aliceblue;
+  background-color: rgba(32, 134, 223, 0.445);
+  
 }
