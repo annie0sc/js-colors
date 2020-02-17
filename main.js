@@ -15,6 +15,9 @@ document.querySelector('#green').addEventListener('click', updateColor)
 document.querySelector('#red').addEventListener('touchend', updateColor)
 document.querySelector('#blue').addEventListener('touchend', updateColor)
 document.querySelector('#green').addEventListener('touchend', updateColor)
+//document.querySelector('footer').addEventListener('click', () => alert ("Hello from the other side..."))
+//() => this is declaring the function 
+//if not, then it will be just directing calling alert 
 
 // call the handler 
 updateColor() 
